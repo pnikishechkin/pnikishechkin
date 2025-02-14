@@ -4,7 +4,7 @@
 - 🎓 Ph.D. of Engineering Sciences (Automation of technological processes and production)
 - 👀 I love to learn and explore new tech
 - ✨ Musician, footballer
-- ### 🛠 Tech Stack
+### 🛠 Tech Stack
 - **Languages:** Java, C#
 - **Frameworks/Libraries:** Spring, SpringBoot, Hibernate, Maven, Lombok, SLF4J, .NET
 - **Databases:** PostgreSQL, H2, MS SQL
