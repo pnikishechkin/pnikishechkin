@@ -6,7 +6,7 @@
 - ✨ Musician, footballer
 - ### 🛠 Tech Stack
 - **Languages:** Java, C#
-- **Frameworks/Libraries:** Spring, SpringBoot, Hibernate, Maven, Lombok, SLF4J .NET
+- **Frameworks/Libraries:** Spring, SpringBoot, Hibernate, Maven, Lombok, SLF4J, .NET
 - **Databases:** PostgreSQL, H2, MS SQL
 - **Tools:** Git, Docker, Intelij IDEA, Swagger, Postman, Visual Studio
 
