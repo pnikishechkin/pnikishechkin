@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Markdown&size=24&pause=1000&color=000000&width=435&height=35&lines=Hello%2C+world!+👋)](https://git.io/typing-svg)
 - 🚀 I'm Petr Nikishechkin
-- 🖥️ Java Developer (ex - C#/.NET, analyst)
+- 🖥️ Java Developer (ex - C#/.NET)
 - 🎓 Ph.D. of Engineering Sciences (Automation of technological processes and production)
 - 👀 I love to learn and explore new tech
 - ✨ Musician, footballer
